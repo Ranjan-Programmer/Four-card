@@ -1,0 +1,77 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+background-color: hsl(0, 0%, 90%);
+}
+.topmid{
+    text-align: center;
+    padding: 1%;
+}
+.topmid h2{
+    font-weight: 600;
+    font-size: 30px;
+}
+.topmid h3{
+    font-weight: 200;
+    font-size: 29px;
+    padding-top: 0.5in;
+}
+.topmid p{
+    font-size: 13px;
+    padding-top: 1%;
+}
+.pos{
+    float: right;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+.boxes{
+    display: flex;
+    margin-left: 6%;
+}
+.box1{
+    background-color: white;
+    border-top: 5px solid cyan;
+    border-radius: 8px;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 2%;
+    width: 300px;
+    height: 200px;
+}
+.box2{
+    background-color: white;
+    border-top: 5px solid red;
+    border-radius: 8px;
+    width: 300px;
+    height: 200px;
+}
+.box3{
+    background-color: white;
+    border-top: 5px solid blue;
+    border-radius: 8px;
+    width: 300px;
+    height: 200px;
+    margin-top: 25px;
+}
+.box4{
+    background-color: white;
+    border-top: 5px solid orange;
+    border-radius: 8px;
+    width: 300px;
+    height: 200px;
+    margin-left: 2%;
+    margin-top: 10%;
+}
+.fi{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.fi1{
+    font-size: 12px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
